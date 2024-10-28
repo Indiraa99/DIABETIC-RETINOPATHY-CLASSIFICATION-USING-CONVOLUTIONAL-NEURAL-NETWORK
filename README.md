@@ -13,3 +13,5 @@ Phase 1 - Model Training: Used a pretrained Inception V3 model in TensorFlow for
 Phase 2 - Fine-Tuning: Enhanced model accuracy through fine-tuning and compared results with initial predictions.
 Phase 3 - Model Comparison: Employed PyTorch to re-train the model and compared performance between TensorFlow and PyTorch implementations.
 This project demonstrates the potential of CNNs for automated diabetic retinopathy screening, helping to make early detection more accessible and cost-effective.
+
+![image](https://github.com/user-attachments/assets/9e943f1a-cc6a-4d00-870f-71822db30957)
